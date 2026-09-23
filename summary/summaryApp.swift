@@ -6,12 +6,19 @@
 //
 
 import SwiftUI
+import FoundationModels
 
 @main
 struct summaryApp: App {
+    
+    
+    
     var body: some Scene {
+      
         WindowGroup {
+            
             ContentView()
+                
         }
     }
 }
